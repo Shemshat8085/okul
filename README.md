@@ -8,4 +8,4 @@ HTML 5 ve Css ile oluşturulmuştur bır sitedir
 
 <h2>Ekran goruntusu</h2>
 
-![](kisafilm.gif)# Film
+![](kisafilm.gif)
